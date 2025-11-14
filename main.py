@@ -8,3 +8,4 @@ def evaluate(my_list):
 
 
 print(evaluate([0, 1, 2, 3, 4]))
+print(evaluate([1, 2, 3]))
